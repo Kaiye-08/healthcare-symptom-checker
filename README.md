@@ -51,7 +51,7 @@ Built using **FastAPI**, **React + Vite**, and **Groq LLMs**.
    <img width="1045" height="494" alt="image" src="https://github.com/user-attachments/assets/e99ae860-8794-46d3-8031-26b8f42062c7" />
 
 ## Demo Video
-Link - https://www.instagram.com/reel/De-h4njirIq/?exln=MTA0b2NuMzN2cmJwbQ==
+Link - https://www.instagram.com/reel/De_bWehiX5b/?xtok=MTVjZnU0NXNxcDN3YQ==
 
 ## Setup Guide
 
