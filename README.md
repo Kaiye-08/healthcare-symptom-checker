@@ -57,7 +57,7 @@ Link - https://www.instagram.com/reel/De_bWehiX5b/?xtok=MTVjZnU0NXNxcDN3YQ==
 
 ### 1) Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/healthcare-symptom-checker.git
+git clone https://github.com/Kaiye-08/healthcare-symptom-checker.git
 cd healthcare-symptom-checker
 ```
 
